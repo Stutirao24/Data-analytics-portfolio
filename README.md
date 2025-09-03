@@ -39,9 +39,9 @@ This repository is a collection of my **projects, skills, and certifications** i
 
 ##  Certifications
 - [Google Data Analytics – Coursera](https://drive.google.com/drive/folders/1u6v_2MwmnND115V1jEL6VqvC6be7jDF1?usp=sharing)
-- [AWS Virtual Experience – Forage](https://github.com/Stutirao24/certificates/blob/main/AWS_Certificate.pdf)
-- [Accenture Data Analytics Virtual Experience](https://github.com/Stutirao24/certificates/blob/main/Accenture_Certificate.pdf)
-- [Machine Learning (Intro) – Coursera](https://github.com/Stutirao24/certificates/blob/main/ML_Intro.pdf)
+- [AWS Virtual Experience – Forage](https://drive.google.com/file/d/1lKXygJWVnOisOf7ZBeGfh3G4ChH6yT6c/view?usp=sharing)
+- [Accenture Data Analytics Virtual Experience](https://drive.google.com/file/d/15BB7vODRxmLBDvJpQ9kcCz905hukw5Bb/view?usp=sharing)
+- [Mastercard Cybersecurity Job Simulation](https://drive.google.com/file/d/1q8kX54yyK47VjPdGZZrP0vmHEI_QDv1d/view?usp=sharing).
  
 
 ---
