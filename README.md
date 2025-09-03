@@ -38,7 +38,7 @@ This repository is a collection of my **projects, skills, and certifications** i
   ---
 
 ##  Certifications
-- [Google Data Analytics – Coursera](https://github.com/Stutirao24/certificates/blob/main/Google_Data_Analytics.pdf)
+- [Google Data Analytics – Coursera](https://drive.google.com/drive/folders/1u6v_2MwmnND115V1jEL6VqvC6be7jDF1?usp=sharing)
 - [AWS Virtual Experience – Forage](https://github.com/Stutirao24/certificates/blob/main/AWS_Certificate.pdf)
 - [Accenture Data Analytics Virtual Experience](https://github.com/Stutirao24/certificates/blob/main/Accenture_Certificate.pdf)
 - [Machine Learning (Intro) – Coursera](https://github.com/Stutirao24/certificates/blob/main/ML_Intro.pdf)
