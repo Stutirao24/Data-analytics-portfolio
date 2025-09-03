@@ -54,7 +54,7 @@ This repository is a collection of my **projects, skills, and certifications** i
 ---
 
 ##  Contact
-- **LinkedIn:** [www.linkedin.com/in/stuti-rao06](#)  
+- **LinkedIn:** [www.linkedin.com/in/stuti-rao06]  
 - **Email:** stutirao24@gmail.com
 -  **GitHub:** [github.com/Stutirao24](https://github.com/Stutirao24)
 
