@@ -8,7 +8,7 @@ This repository is a collection of my **projects, skills, and certifications** i
 ##  About Me
 -  B.Tech in Mechanical Engineering (NIT Jamshedpur)  
 -  Skilled in: **Python, SQL, Power BI, Excel, Statistics, Data Visualization**  
--  Tools: **Jupyter Notebook, GitHub, Tableau (basic), AutoCAD, ANSYS**  
+-  Tools: **Jupyter Notebook, GitHub, Tableau (basic)**  
 -  Goal: Become a Data Analyst in Japan (Tokyo) 
 
 ---
