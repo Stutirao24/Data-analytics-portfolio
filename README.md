@@ -38,10 +38,11 @@ This repository is a collection of my **projects, skills, and certifications** i
   ---
 
 ##  Certifications
-- Coursera – Google Data Analytics  
-- AWS Virtual Experience Program (Forage)  
-- Accenture Data Analytics Virtual Experience  
-- Machine Learning (Intro)  
+- [Google Data Analytics – Coursera](https://github.com/Stutirao24/certificates/blob/main/Google_Data_Analytics.pdf)
+- [AWS Virtual Experience – Forage](https://github.com/Stutirao24/certificates/blob/main/AWS_Certificate.pdf)
+- [Accenture Data Analytics Virtual Experience](https://github.com/Stutirao24/certificates/blob/main/Accenture_Certificate.pdf)
+- [Machine Learning (Intro) – Coursera](https://github.com/Stutirao24/certificates/blob/main/ML_Intro.pdf)
+ 
 
 ---
 
