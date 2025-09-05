@@ -33,7 +33,7 @@ This repository is a collection of my **projects, skills, and certifications** i
 ###  Coffee Shop Sales Analysis (SQL + Power BI)
 - **Tech:** SQL, Power BI  
 - **Description:** Interactive dashboard analyzing sales, customer behavior, and product trends using SQL queries and Power BI visualizations.  
-- [View Project](https://github.com/Stutirao24/Coffee-Shop-Sales-Analysis-SQL-Power-BI)
+- [View Project](https://github.com/Stutirao24/Coffee-Shop-Sales-Analysis-SQL-Power-BI-)
 
   ---
 
